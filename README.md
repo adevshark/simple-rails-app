@@ -10,7 +10,8 @@ It contains
 ## Codefresh
 
 Codefresh is the first CI/CD platform built for Kubernetes.
-See [https://codefresh.io/](Codefresh) for details.
+See [Codefresh](https://codefresh.io/) for details.
+
 
 
 Original readme below
