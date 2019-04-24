@@ -7,9 +7,11 @@ It contains
  * A Dockerfile
  * A Codefresh build file
 
-## Codefresh[https://codefresh.io/]
+## Codefresh
 
 Codefresh is the first CI/CD platform built for Kubernetes.
+See [https://codefresh.io/](Codefresh) for details.
+
 
 Original readme below
 
